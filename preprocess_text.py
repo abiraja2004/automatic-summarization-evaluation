@@ -1,6 +1,6 @@
 import re
 
-keywords = 'GOAL!|CLOSE!|PENALTY!|KICK-OFF!|CHANCE!|SUB!|WIDE!|SAVE!'
+keywords = 'GOAL!|CLOSE!|PENALTY!|KICK-OFF!|CHANCE!|SUB!|WIDE!|SAVE!|YELLOW!'
 remove_words = ['watch','click here']
 filenames = ['doc1.txt']
 for i in range(1,11):
